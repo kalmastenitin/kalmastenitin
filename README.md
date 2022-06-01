@@ -21,9 +21,9 @@ I am a Backend Developer from India
 
 - :telescope: I’m working as a Software Engineer and contributing to backend for building web applications.
 
-- :seedling: Exploring Technical Information.
+- :seedling: Exploring Languages.
 
-- 👯 I’m looking to collaborate on open source code
+- I’m fixing issues open source code
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-kalmaste-04a69489/)
 
